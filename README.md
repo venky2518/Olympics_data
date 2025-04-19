@@ -2,7 +2,7 @@ I created an end-to-end data engineering project using Microsoft Azure.
 
 Hello everyone today I gone be creating end to end data engineering project using azure. This project is all about moving data from on-premises sql server to cloud.
 
-**On premises sql server ** • For that i am using This bike shop database in local. • This database has these set of tables • So i gone a move this tables to cloud using azure.
+**On premises sql server ** • For that i am using This olympic database in local. • This database has these set of tables • So i gone a move this tables to cloud using azure.
 
 **Azure ** • Here already i have created set of resources which are all useful for this project. • Storage accounts, Data factory, data bricks, Azure synapse analytics etc • We need data factory to run pipelines • So i am opening that first
 
